@@ -151,7 +151,6 @@ public class PickUpSticks {
                     
                     if(loopControl == 'y' || loopControl == 'Y' ||
                        loopControl == 'n' || loopControl == 'N'){
-                           System.out.println("\n\nLet's play again!");
                        
                        if(loopControl == 'n' || loopControl == 'N'){
                            System.out.println("\nThank you for the game! Bye...");
